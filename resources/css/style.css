@@ -14,8 +14,6 @@ h1 {
 }
 
 p{
-  font-size: 21px
-  color: Grey;
   display: block;
 }
 
@@ -31,4 +29,10 @@ p{
 
 .copyright {
   text-align: right;
+}
+
+.description,
+.copyright {
+  color: Grey;
+  font-size: 21px;
 }
