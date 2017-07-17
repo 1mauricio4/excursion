@@ -12,3 +12,18 @@ h1 {
   font-size: 50px;
   font-weight: normal;
 }
+
+p{
+  color: Grey;
+  display: block;
+}
+
+.link {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.subheading {
+  font-weight: 300;
+  font-size: 42px;
+}
